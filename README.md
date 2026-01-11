@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Nikhil Vaghela! 👋
 
-<!--
-**NikhilVaghela07/NikhilVaghela07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+- 🎓 Student at **Charotar University of Science and Technology**
+- 🔭 Currently working on **Quiz Master**
+- 🌱 Learning **AWS & Cloud Technologies**
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/nikhil-vaghela-009226294/)
+- 💡 Career Goal: Aspiring **Cloud / DevOps Engineer**
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Languages:** Python, JavaScript, Java, C++, Shell Scripting
+- **Frontend:** HTML, CSS, Flutter
+- **Backend:** Node.js, Flask
+- **Cloud & DevOps:** AWS (EC2, IAM, Lambda, VPC), Docker
+- **Database:** MySQL, MongoDB
+- **Tools:** Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🧠 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/Nikhil_Vaghela?theme=dark&font=Karma)
+
