@@ -1,5 +1,7 @@
 # Hi there, I'm Nikhil Vaghela! 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=Nikhil-Vaghela&label=Profile%20Views&color=0e75b6&style=flat)
+
 ### 👨‍💻 About Me
 - 🎓 Student at **Charotar University of Science and Technology**
 - 🔭 Currently working on **Quiz Master**
@@ -15,7 +17,5 @@
 - **Database:** MySQL, MongoDB
 - **Tools:** Git, GitHub, VS Code
 
-
 ## 🧠 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Nikhil_Vaghela?theme=dark&font=Karma)
-
