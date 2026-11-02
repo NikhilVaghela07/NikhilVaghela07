@@ -4,7 +4,6 @@
 
 ### 👨‍💻 About Me
 - 🎓 Student at **Charotar University of Science and Technology**
-- 🔭 Currently working on **Quiz Master**
 - 🌱 Learning **AWS & Cloud Technologies**
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/nikhil-vaghela-009226294/)
 - 💡 Career Goal: Aspiring **Cloud / DevOps Engineer**
